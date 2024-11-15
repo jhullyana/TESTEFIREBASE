@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249449176360",
+    "project_id": "agoravai-72718",
+    "storage_bucket": "agoravai-72718.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249449176360:android:bb7cdde2651e5869ae441d",
+        "android_client_info": {
+          "package_name": "com.jhullyana.codigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBig5BRDqT3ceVGwa6GvPelDlnT8JRgCdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
